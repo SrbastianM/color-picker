@@ -55,5 +55,6 @@ export default tseslint.config({
 
 # Color picker
 Simple app to understand React.fc + TS
-![image](https://github.com/user-attachments/assets/2e7e0903-dec8-4417-b2d5-26deaa99222a)
+![image](https://github.com/user-attachments/assets/c10b19b0-7db9-4658-ab5b-bc7871761bcf)
+
 
